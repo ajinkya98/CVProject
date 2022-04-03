@@ -18,7 +18,7 @@ The dataset has been acquired from the CNS lab at IU. The total size of the data
 7. lymph node
 8. pancreas
 9. skin_1
-10.skin_2
+10. skin_2
 11. small intestine
 12. spleen
 
