@@ -24,7 +24,23 @@ The dataset has been acquired from the CNS lab at IU. The total size of the data
 
 There are 1200 training images and 600 test images. The annotations file has been provided as well for the segmentation task.
 ### Hyperparameter Sweep:
-![Capture](https://user-images.githubusercontent.com/32778343/161443706-cdc9ad7a-f6b8-4803-8f12-b6008a742032.JPG)
+![image](https://user-images.githubusercontent.com/32778343/161443938-06e19bee-6347-4d15-b2ff-93132e029669.png)
+
+### Results With an Interactive DashBoard:
+https://wandb.ai/ajinkya98/pytorch-cell-classification/reports/Classification-for-Organ-Cell-Microscopic-Images--VmlldzoxNzgzODEy
+
+### Tools Used:
+#### Classification:
+
+Data Prep and Analysis: <b>Numpy</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Seaborn</b>
+
+Deep Learning Model and Experimentation: <b>Pytorch</b>
+
+DashBoard, Runs Management and Visualizations: <b>Weights and Biases</b>
+
+
+
+
 
 
 
