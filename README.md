@@ -23,4 +23,9 @@ The dataset has been acquired from the CNS lab at IU. The total size of the data
 12. spleen
 
 There are 1200 training images and 600 test images. The annotations file has been provided as well for the segmentation task.
+### Hyperparameter Sweep:
+![Capture](https://user-images.githubusercontent.com/32778343/161443706-cdc9ad7a-f6b8-4803-8f12-b6008a742032.JPG)
+
+
+
 
