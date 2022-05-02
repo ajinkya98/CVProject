@@ -24,7 +24,8 @@ The dataset has been acquired from the CNS lab at IU. The total size of the data
 
 There are 1200 training images and 600 test images. The annotations file has been provided as well for the segmentation task.
 ### Hyperparameter Sweep[Clasification]:
-![image](https://user-images.githubusercontent.com/32778343/161443938-06e19bee-6347-4d15-b2ff-93132e029669.png)
+![image](https://user-images.githubusercontent.com/55157425/166335580-e25e86b4-03c7-4d43-a4fe-93ec7a5e1448.png)
+
 
 ### Results With an Interactive DashBoard[Classification]:
 https://wandb.ai/ajinkya98/pytorch-cell-classification/reports/Classification-for-Organ-Cell-Microscopic-Images--VmlldzoxNzgzODEy
