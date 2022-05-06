@@ -23,11 +23,12 @@ The dataset has been acquired from the CNS lab at IU. The total size of the data
 12. spleen
 
 There are 1200 training images and 600 test images. The annotations file has been provided as well for the segmentation task.
+
+The segmentation dataset consist of 5 Images for training and 2 images for testing. In order to increase dataset size, we have divided the images into patches for training.
+
 ### Hyperparameter Sweep[Clasification]:
 
 ![image](https://user-images.githubusercontent.com/55157425/166335580-e25e86b4-03c7-4d43-a4fe-93ec7a5e1448.png)
-
-The segmentation dataset consist of 5 Images for training and 2 images for testing. In order to increase dataset size, we have divided the images into patches for training.
 
 ### Results With an Interactive DashBoard[Classification And Segmentation]:
 
