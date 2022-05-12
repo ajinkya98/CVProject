@@ -46,3 +46,11 @@ Data Prep and Analysis: <b>Numpy</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Seabo
 Deep Learning Model and Experimentation: <b>Pytorch</b>
 
 DashBoard, Runs Management and Visualizations: <b>Weights and Biases</b>
+
+
+### References:
+
+Idea of how to approach the segmentation problem was taken from this youtube channel- 
+
+https://github.com/bnsreenu/python_for_microscopists 
+https://www.youtube.com/results?search_query=digital+sreeni
